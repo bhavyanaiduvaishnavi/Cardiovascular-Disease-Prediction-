@@ -69,7 +69,7 @@ The browser never receives the key. The backend uses the OpenAI Python SDK and t
 			</linearGradient>
 		</defs>
 		<rect rx="16" width="700" height="120" fill="url(#g)" />
-		<text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-size="28" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#0b1020">Designed by <tspan font-weight="700">Sushma Kanna</tspan></text>
+		<text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-size="28" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#0b1020">Designed by <tspan font-weight="700"> Bhavya</tspan></text>
 	</svg>
 </p>
 
